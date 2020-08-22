@@ -1,6 +1,7 @@
 # flutter_travel_ui
 
-A new Flutter project.
+- finish coding this UI (https://www.youtube.com/watch?v=CSa6Ocyog4U)
+
 
 ## Getting Started
 
