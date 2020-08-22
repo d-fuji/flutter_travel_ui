@@ -4,6 +4,10 @@
 
 - confirmed that it works on my iPhonexX
 
+- Tips
+1. ClipRRec
+2. Hero Animation
+
 
 ## Getting Started
 
