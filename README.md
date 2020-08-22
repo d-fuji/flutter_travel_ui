@@ -2,6 +2,8 @@
 
 - finish coding this UI (https://www.youtube.com/watch?v=CSa6Ocyog4U)
 
+- confirmed that it works on my iPhonexX
+
 
 ## Getting Started
 
